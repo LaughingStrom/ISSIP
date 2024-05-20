@@ -1,1 +1,10 @@
 # Reasearch into Generative AI tools to generate Text, Image and Video content for webpages
+principles to rate against: 
+fairness- diverse representative data, bias ( awareness and mitigation) 
+prediction accuracy- reliable content over time- can we reuse prompts and get same or similar output?
+tracebility- are we recieving sources and links?
+Transperancy- data used in generation
+Privacy- Third party disclosure given? data sharing?
+security- bugs?
+credit- ??
+
