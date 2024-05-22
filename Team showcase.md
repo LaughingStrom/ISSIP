@@ -1,6 +1,6 @@
 # Meet Our Team
 
-## ![Revathi Chintapalli](https://your-repo-url.com/images/revathi.jpg)  
+## ![Revathi Chintapalli](https://your-repo-url.com/images/revathi.jpg](https://github.com/LaughingStrom/ISSIP/blob/main/Revathi.jpg)  
 ### Revathi Chintapalli  
 [LinkedIn Profile](https://www.linkedin.com/in/revathichintapalli)  
 Revathi is a software engineer with over 10 years of experience in full-stack development.
