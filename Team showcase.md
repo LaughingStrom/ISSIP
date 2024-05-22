@@ -7,7 +7,7 @@ Revathi is a software engineer with over 10 years of experience in full-stack de
 
 ---
 
-## ![Aaron D. Thai](https://github.com/LaughingStrom/ISSIP/blob/main/aaron.jpg | width=100)  
+## <img src="[drawing.jpg](https://github.com/LaughingStrom/ISSIP/blob/main/aaron.jpg)" alt="Aaron D. Thai" width="200"/>
 ### Aaron D. Thai  
 [LinkedIn Profile](https://www.linkedin.com/in/aarondthai)  
 Aaron is a project manager who specializes in agile methodologies and team leadership.
