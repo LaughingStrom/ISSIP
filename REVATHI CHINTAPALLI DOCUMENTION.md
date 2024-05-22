@@ -1,6 +1,6 @@
 # Generative AI Tool Evaluation Template
 
-## Tool Name: [Tool Name Here]
+## Tool Name: [Chatgpt]
 
 ### 1. Prompts Used
 
