@@ -35,7 +35,7 @@ Eve is a cybersecurity expert with extensive knowledge in network security and e
 
 ---
 
-## ![Lourdes](https://your-repo-url.com/images/frank.jpg)  
+## ![Lourdes]((https://github.com/LaughingStrom/ISSIP/blob/main/10d65b8f-3e93-455e-b844-62a7463dbdd3.jpg))  
 ### Lourdes  
 [LinkedIn Profile](https://www.linkedin.com/in/frankwhite)  
 Frank is a DevOps engineer who excels in cloud infrastructure and automation.
