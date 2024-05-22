@@ -1,61 +1,84 @@
-##Evaluation Criteria for Generative AI Tools
-Overview
-This document outlines the principles and criteria for evaluating generative AI tools used for creating text, image, and video content for webpages. 
-The criteria focus on principles of fairness, prediction accuracy, traceability, transparency, privacy, security, and credit.
+# Generative AI Tool Evaluation Template
 
-Criteria and Principles
-1. Fairness
-1.1 Diverse Representative Data
-Description: Evaluate if the AI tool is trained on datasets that include diverse and representative samples from various demographics, cultures, and perspectives.
-Rating Questions:
-Does the tool’s dataset include a wide range of demographics?
-How does the tool ensure cultural and perspective diversity?
-Rating Scale: 1 (Poor) - 5 (Excellent)
-1.2 Bias Awareness and Mitigation
-Description: Assess the measures taken to identify, monitor, and mitigate bias in the generated content.
-Rating Questions:
-What methods are used to detect bias in the generated content?
-How effectively are biases mitigated in the AI's output?
-Rating Scale: 1 (Poor) - 5 (Excellent)
-2. Prediction Accuracy
-2.1 Reliability Over Time
-Description: Determine if the AI tool can consistently generate reliable content over multiple uses.
-Rating Questions:
-Can prompts be reused to generate similar or identical outputs?
-How does the tool handle variations in prompts?
-Rating Scale: 1 (Unreliable) - 5 (Highly Reliable)
-3. Traceability
-3.1 Source Attribution
-Description: Check if the AI tool provides sources and links for the information used in generating content.
-Rating Questions:
-Are sources and references provided with the generated content?
-How transparent is the tool about its sources?
-Rating Scale: 1 (No Traceability) - 5 (Full Traceability)
-4. Transparency
-4.1 Data Used in Generation
-Description: Evaluate the transparency of the data and algorithms used in content generation.
-Rating Questions:
-Is information about the training data available?
-How clear is the documentation regarding the algorithms used?
-Rating Scale: 1 (Opaque) - 5 (Transparent)
-5. Privacy
-5.1 Third-Party Disclosure
-Description: Assess if the AI tool discloses data to third parties and how data sharing is managed.
-Rating Questions:
-Does the tool share data with third parties?
-How is user data protected?
-Rating Scale: 1 (No Privacy) - 5 (High Privacy)
-6. Security
-6.1 Vulnerability to Bugs
-Description: Check for the presence of security measures and the tool's vulnerability to bugs.
-Rating Questions:
-Are there robust security measures in place?
-How frequently are bugs and security issues reported and fixed?
-Rating Scale: 1 (Vulnerable) - 5 (Secure)
-7. Credit
-7.1 Attribution and Ownership
-Description: Determine how the AI tool handles credit for generated content and intellectual property rights.
-Rating Questions:
-Does the tool provide proper attribution for content?
-How are ownership and rights managed for generated content?
-Rating Scale: 1 (No Attribution) - 5 (Full Attribution)
+## Tool Name: [Tool Name Here]
+
+### 1. Prompts Used
+
+#### Initial Prompts
+1. **Text Prompt (ChatGPT)**: 
+    - Prompt: "[Your initial text prompt here]"
+    - Output: 
+    ```
+    [Generated text output here]
+    ```
+2. **Image Prompt (MidJourney)**:
+    - Prompt: "[Your initial image prompt here]"
+    - Output: 
+    ![Generated Image](image_url)
+3. **Video Prompt (Alex)**:
+    - Prompt: "[Your initial video prompt here]"
+    - Output: 
+    [Generated video link or description]
+
+#### Improved Prompts
+1. **Text Prompt (ChatGPT)**:
+    - Improved Prompt: "[Your improved text prompt here]"
+    - Output: 
+    ```
+    [Generated text output here]
+    ```
+    - Reason for Improvement: "[Reason for changing the prompt and the specific improvements made]"
+
+2. **Image Prompt (MidJourney)**:
+    - Improved Prompt: "[Your improved image prompt here]"
+    - Output: 
+    ![Generated Image](image_url)
+    - Reason for Improvement: "[Reason for changing the prompt and the specific improvements made]"
+
+3. **Video Prompt (Alex)**:
+    - Improved Prompt: "[Your improved video prompt here]"
+    - Output: 
+    [Generated video link or description]
+    - Reason for Improvement: "[Reason for changing the prompt and the specific improvements made]"
+
+### 2. Best Prompt and Outputs
+
+1. **Text Prompt (ChatGPT)**:
+    - Best Prompt: "[Your best text prompt here]"
+    - Output: 
+    ```
+    [Generated text output here]
+    ```
+
+2. **Image Prompt (MidJourney)**:
+    - Best Prompt: "[Your best image prompt here]"
+    - Output: 
+    ![Generated Image](image_url)
+
+3. **Video Prompt (Alex)**:
+    - Best Prompt: "[Your best video prompt here]"
+    - Output: 
+    [Generated video link or description]
+
+### 3. Evaluation Table
+
+| Principle                    | Rating (1-5) | Reasoning                                                                                  |
+|------------------------------|--------------|--------------------------------------------------------------------------------------------|
+| **1. Fairness**              |              |                                                                                            |
+| Diverse Representative Data  |              | [Reasoning for rating the tool on diverse representative data]                             |
+| Bias Awareness and Mitigation|              | [Reasoning for rating the tool on bias awareness and mitigation]                           |
+| **2. Prediction Accuracy**   |              |                                                                                            |
+| Reliability Over Time        |              | [Reasoning for rating the tool on reliability over time]                                   |
+| **3. Traceability**          |              |                                                                                            |
+| Source Attribution           |              | [Reasoning for rating the tool on source attribution]                                      |
+| **4. Transparency**          |              |                                                                                            |
+| Data Used in Generation      |              | [Reasoning for rating the tool on data used in generation]                                 |
+| **5. Privacy**               |              |                                                                                            |
+| Third-Party Disclosure       |              | [Reasoning for rating the tool on third-party disclosure]                                  |
+| **6. Security**              |              |                                                                                            |
+| Vulnerability to Bugs        |              | [Reasoning for rating the tool on vulnerability to bugs]                                   |
+| **7. Credit**                |              |                                                                                            |
+| Attribution and Ownership    |              | [Reasoning for rating the tool on attribution and ownership]                               |
+
+## Conclusion
+Summarize your overall evaluation of the tool based on the ratings and reasoning provided in the table above. Highlight the strengths and areas for improvement.
