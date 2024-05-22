@@ -1,31 +1,87 @@
-# Evaluation Principles for Generative AI Tools
+# Criteria and Principles for Evaluating Generative AI Tools
 
-This document outlines the principles used to evaluate generative AI tools for generating text, image, and video content for webpages.
+## 1. Fairness
 
-## Principles
+### 1.1 Diverse Representative Data
+**Description**: Evaluate if the AI tool is trained on datasets that include diverse and representative samples from various demographics, cultures, and perspectives.
 
-### 1. Fairness
-- **Diverse Representative Data**: Assess whether the AI tool is trained on a dataset that represents a wide range of demographics, cultures, and viewpoints.
-- **Bias (Awareness and Mitigation)**: Evaluate the awareness of potential biases in the model and the measures taken to mitigate them.
+**Rating Questions**:
+- Does the tool’s dataset include a wide range of demographics?
+- How does the tool ensure cultural and perspective diversity?
 
-### 2. Prediction Accuracy
-- **Reliable Content Over Time**: Determine if the AI tool can consistently generate reliable content. Test if the same or similar prompts produce the same or similar output over multiple instances.
-- **Reusability of Prompts**: Verify if prompts can be reused to get consistent results.
+**Rating Scale**: 1 (Poor) - 5 (Excellent)
 
-### 3. Traceability
-- **Sources and Links**: Check if the AI tool provides sources and links for the information it generates. Evaluate the traceability of the content to its original data sources.
+### 1.2 Bias Awareness and Mitigation
+**Description**: Assess the measures taken to identify, monitor, and mitigate bias in the generated content.
 
-### 4. Transparency
-- **Data Used in Generation**: Investigate the transparency regarding the data used to train the AI model. Ensure that there is clear information about the datasets and their origins.
+**Rating Questions**:
+- What methods are used to detect bias in the generated content?
+- How effectively are biases mitigated in the AI's output?
 
-### 5. Privacy
-- **Third-Party Disclosure**: Confirm if the AI tool discloses any sharing of data with third parties. Ensure that there are clear policies regarding data sharing and user privacy.
+**Rating Scale**: 1 (Poor) - 5 (Excellent)
 
-### 6. Security
-- **Bugs and Vulnerabilities**: Evaluate the AI tool for any bugs or security vulnerabilities. Ensure that the tool is regularly updated and maintained to address potential security issues.
+## 2. Prediction Accuracy
 
-### 7. Credit
-- **Attribution**: Assess how the AI tool handles attribution and credit for generated content. Ensure that proper credit is given to original sources and creators where applicable.
+### 2.1 Reliability Over Time
+**Description**: Determine if the AI tool can consistently generate reliable content over multiple uses.
 
-## Conclusion
-Use these principles to systematically evaluate generative AI tools and ensure they meet the necessary standards for fairness, accuracy, traceability, transparency, privacy, security, and credit.
+**Rating Questions**:
+- Can prompts be reused to generate similar or identical outputs?
+- How does the tool handle variations in prompts?
+
+**Rating Scale**: 1 (Unreliable) - 5 (Highly Reliable)
+
+## 3. Traceability
+
+### 3.1 Source Attribution
+**Description**: Check if the AI tool provides sources and links for the information used in generating content.
+
+**Rating Questions**:
+- Are sources and references provided with the generated content?
+- How transparent is the tool about its sources?
+
+**Rating Scale**: 1 (No Traceability) - 5 (Full Traceability)
+
+## 4. Transparency
+
+### 4.1 Data Used in Generation
+**Description**: Evaluate the transparency of the data and algorithms used in content generation.
+
+**Rating Questions**:
+- Is information about the training data available?
+- How clear is the documentation regarding the algorithms used?
+
+**Rating Scale**: 1 (Opaque) - 5 (Transparent)
+
+## 5. Privacy
+
+### 5.1 Third-Party Disclosure
+**Description**: Assess if the AI tool discloses data to third parties and how data sharing is managed.
+
+**Rating Questions**:
+- Does the tool share data with third parties?
+- How is user data protected?
+
+**Rating Scale**: 1 (No Privacy) - 5 (High Privacy)
+
+## 6. Security
+
+### 6.1 Vulnerability to Bugs
+**Description**: Check for the presence of security measures and the tool's vulnerability to bugs.
+
+**Rating Questions**:
+- Are there robust security measures in place?
+- How frequently are bugs and security issues reported and fixed?
+
+**Rating Scale**: 1 (Vulnerable) - 5 (Secure)
+
+## 7. Credit
+
+### 7.1 Attribution and Ownership
+**Description**: Determine how the AI tool handles credit for generated content and intellectual property rights.
+
+**Rating Questions**:
+- Does the tool provide proper attribution for content?
+- How are ownership and rights managed for generated content?
+
+**Rating Scale**: 1 (No Attribution) - 5 (Full Attribution)
