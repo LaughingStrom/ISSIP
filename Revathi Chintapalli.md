@@ -1,87 +1,24 @@
 ## https://laughingstrom.github.io/ISSIP/
 
-# Generative AI Tool Evaluation Template
+# Generative AI Tool Evaluation 
 
-## Tool Name: [Chatgpt]
-
-### 1. Prompts Used
-
-#### Initial Prompts
-1. **Text Prompt (ChatGPT)**: 
-    - Prompt: Write a short paragraph on history of fitness trackers as a service innovation and their advantages and disadvantages 
-    - Output: 
-The history of fitness trackers as a service innovation dates back to the early 2000s, with the launch of basic pedometers that counted steps. Over the years, these devices have evolved significantly, incorporating advanced sensors and technology to monitor a wide range of health metrics such as heart rate, sleep quality, and even stress levels. This evolution reflects a broader trend towards personalized health and wellness, where individuals are empowered to take control of their fitness journeys through data-driven insights. 
-The advantages of this innovation are manifold. Fitness trackers have made health monitoring accessible and convenient, providing users with instant feedback on their physical activity and encouraging healthier lifestyle choices. They also facilitate personalized fitness plans, as the data collected can be used to tailor exercise and diet programs to individual needs. Additionally, the social and competitive features of many fitness tracker platforms add a motivational aspect to fitness, making it more engaging for users. 
-However, the rise of fitness trackers has also brought disadvantages. Privacy and security concerns are at the forefront, with sensitive personal health data being collected and potentially exposed. There's also the risk of data accuracy, which can lead users to make health decisions based on incorrect information. Furthermore, an overemphasis on quantified self-metrics might lead to an unhealthy obsession with numbers, potentially overshadowing the intrinsic enjoyment and benefits of physical activity and ignoring the body's own signals.
-
-2. **Image Prompt (MidJourney)**:
-    - Prompt: "[Your initial image prompt here]"
-    - Output: 
-    ![Generated Image](image_url)
-3. **Video Prompt (Alex)**:
-    - Prompt: "[Your initial video prompt here]"
-    - Output: 
-    [Generated video link or description]
-
-#### Improved Prompts
-1. **Text Prompt (ChatGPT)**:
-    - Improved Prompt:  "Write a short paragraph on "fitness tracker" service innovation. It should contain its history, benefits and harmful effects. "
-    - Output: 
-The advent of fitness trackers represents a significant service innovation in the health and wellness industry. The concept originated in the early 2000s with the introduction of wearable devices designed to monitor and track individuals' physical activity levels, heart rate, and sleep patterns. Fitness trackers have since evolved into sophisticated gadgets equipped with advanced sensors and smart features. The benefits of fitness trackers are diverse, ranging from promoting physical activity and helping users set and achieve fitness goals to providing real-time data for a more informed approach to personal health. Users can monitor their daily steps, track calorie expenditure, and even receive alerts for sedentary behavior. However, it's essential to use these devices mindfully, as excessive reliance on fitness trackers may lead to an unhealthy obsession with metrics and, in some cases, contribute to anxiety or stress. Striking a balance and utilizing these devices as supportive tools in a broader health and wellness strategy can maximize the positive impact of fitness trackers on individual well-being.
- 
-    - Reason for Improvement: The output was too large. 
-
-2. **Image Prompt (MidJourney)**:
-    - Improved Prompt: "[Your improved image prompt here]"
-    - Output: 
-    ![Generated Image](image_url)
-    - Reason for Improvement: "[Reason for changing the prompt and the specific improvements made]"
-
-3. **Video Prompt (Alex)**:
-    - Improved Prompt: "[Your improved video prompt here]"
-    - Output: 
-    [Generated video link or description]
-    - Reason for Improvement: "[Reason for changing the prompt and the specific improvements made]"
-
-### 2. Best Prompt and Outputs
-
-1. **Text Prompt (ChatGPT)**:
-    - Best Prompt:
-write a short para on fitness trackers following this example:  
-Initial Innovation: The first cities emerged in the 4th millennium BCE in Mesopotamia.
-
-Benefits to Society: Simple concentration of people, knowledge, and resources led to innovations from community education, healthcare and entertainment to infrastructure. 
-
-Harms: As benefits scaled, harmful impacts also began to scale.  
-
-Service Innovation: Institutional arrangements such as governance, social and trade structures, and specialized professions were developed to regulate the scaling of harms within these more complex economies. That evolution is service innovation.
-   
-    - Output: 
-Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century. 
-
-Benefits to Society: These early fitness trackers paved the way for a more health-conscious society, encouraging individuals to monitor their physical activity levels and adopt healthier habits. They enabled users to set fitness goals, track progress, and make informed decisions about their lifestyle choices. 
-
-Harms: However, as the popularity of fitness trackers grew, concerns arose regarding their potential to foster obsessive behaviors and contribute to an unhealthy fixation on metrics rather than overall well-being. 
-
-Service Innovation: To address these concerns, a service innovation emerged in the form of enhanced software features and personalized coaching options, aiming to strike a balance between encouraging physical activity and promoting holistic health. This evolution represents a service innovation within the realm of personal wellness management, seeking to mitigate potential harms while maximizing the benefits of fitness tracking technology. 
-    
 ### Overall Tool Rating
 
 | Tool Name | Rating (1-5) |
 |-----------|--------------|
-| Tool 1    |              |
-| Tool 2    |              |
-| Tool 3    |              |
+| Tool 1 Chat GPT    |       4       |
+| Tool 2  Midjourney  |      3        |
+| Tool 3 Heygen    |        4      |
 
 
-# Round 1: Copy AI
+# Round 1: Chat gpt
 [Copy AI](https://www.copy.ai/) is an online AI tool that mainly **generates text** in response to user prompts. As the name suggests, it is more directed towards **copywriting**, which may have a more **professional tone**. As of now, the tool does not generate images or videos.
 
 | Media       | Text       | Image | Video |
 |-------------|------------|-------|-------|
 | Supported?  | Yes        | No    | No    |
-| Rating      | 5          | 0     | 0     |
-| Time needed | 10 minutes | N/A   | N/A   |
+| Rating      | 3          | 0     | 0     |
+| Time needed | 1 minutes | N/A   | N/A   |
 
 ## Getting Started
 To start using the tool:
@@ -92,39 +29,41 @@ To start using the tool:
 
 ## Prompts
 
-For the first prompt I started with an example similar to what we used in the playbook.
-
 *Prompt #1*: 
-* "Write me a short paragraph explaining how fitness trackers are an important service innovation.”
+* "Write a short paragraph on history of fitness trackers as a service innovation and their advantages and disadvantages ”
 
 Output:
-> Fitness trackers are an important service innovation as they revolutionize the way individuals track and monitor their fitness goals. These devices provide real-time data on a variety of health metrics, such as steps taken, calories burned, heart rate, and sleep patterns. By easily and accurately quantifying physical activity, fitness trackers empower users to make informed decisions about their health, set more realistic goals, and stay motivated to maintain an active lifestyle. Additionally, they often come with accompanying mobile applications that provide personalized insights, goal tracking, and social features for added engagement and support. Overall, fitness trackers play a crucial role in enhancing personal wellness and facilitating proactive health management.
+> The history of fitness trackers as a service innovation dates back to the early 2000s, with the launch of basic pedometers that counted steps. Over the years, these devices have evolved significantly, incorporating advanced sensors and technology to monitor a wide range of health metrics such as heart rate, sleep quality, and even stress levels. This evolution reflects a broader trend towards personalized health and wellness, where individuals are empowered to take control of their fitness journeys through data-driven insights. 
+The advantages of this innovation are manifold. Fitness trackers have made health monitoring accessible and convenient, providing users with instant feedback on their physical activity and encouraging healthier lifestyle choices. They also facilitate personalized fitness plans, as the data collected can be used to tailor exercise and diet programs to individual needs. Additionally, the social and competitive features of many fitness tracker platforms add a motivational aspect to fitness, making it more engaging for users. 
+However, the rise of fitness trackers has also brought disadvantages. Privacy and security concerns are at the forefront, with sensitive personal health data being collected and potentially exposed. There's also the risk of data accuracy, which can lead users to make health decisions based on incorrect information. Furthermore, an overemphasis on quantified self-metrics might lead to an unhealthy obsession with numbers, potentially overshadowing the intrinsic enjoyment and benefits of physical activity and ignoring the body's own signals.
 
-Discussion:
-
-The output seems okay, but I forgot to include a more nuanced discussion of benefits and challenges of the service innovation in my prompt. I'll write a short prompt to see if the tool can generate me another paragraph without me having to repeat myself.
 
 *Prompt #2*:
-* “Include pros and cons." 
-> Fitness trackers are an important service innovation for several reasons. One of the major pros is their ability to provide real-time data on various health metrics, helping individuals make informed decisions about their fitness goals. Fitness trackers also offer personalized insights and goal tracking features through accompanying mobile applications, which can enhance motivation and amplify results. Additionally, many fitness trackers provide social features that allow users to connect with friends and participate in challenges, fostering a sense of community and support. On the other hand, there are some potential cons associated with fitness trackers. Some users might become overly reliant on the numbers and metrics provided by the device, potentially leading to an unhealthy obsession or obsession with achieving certain goals. Furthermore, fitness trackers are not infallible and may sometimes provide inaccurate readings, which could mislead users. Lastly, there is the issue of privacy and data security, as fitness trackers collect and store personal health information. Users must consider the potential risks and ensure they are comfortable with the way their data is handled. Despite these cons, fitness trackers, overall, offer numerous benefits in terms of personal wellness and proactive health management.
+* “Write a short paragraph on "fitness tracker" service innovation. It should contain its history, benefits and harmful effects." 
+>The advent of fitness trackers represents a significant service innovation in the health and wellness industry. The concept originated in the early 2000s with the introduction of wearable devices designed to monitor and track individuals' physical activity levels, heart rate, and sleep patterns. Fitness trackers have since evolved into sophisticated gadgets equipped with advanced sensors and smart features. The benefits of fitness trackers are diverse, ranging from promoting physical activity and helping users set and achieve fitness goals to providing real-time data for a more informed approach to personal health. Users can monitor their daily steps, track calorie expenditure, and even receive alerts for sedentary behavior. However, it's essential to use these devices mindfully, as excessive reliance on fitness trackers may lead to an unhealthy obsession with metrics and, in some cases, contribute to anxiety or stress. Striking a balance and utilizing these devices as supportive tools in a broader health and wellness strategy can maximize the positive impact of fitness trackers on individual well-being.
+ 
+    - Reason for Improvement: The output was too large. 
 
-The tool recognized my intent and generated a new paragraph. However, the tone of my prompt using "pros and cons" was too casual. As a result, the new paragraph specifically includes the words "pros" and "cons". This tone is too casual for the intended audience of the ISSIP website, so I will go back to the original prompt. This time, I will use the "benefits and challenges" which is more professional.
 
 *Prompt #3*: 
-* “Write me a short paragraph explaining how fitness trackers are an important service innovation, including benefits and challenges.”
-> Fitness trackers have emerged as an important service innovation, revolutionizing the way individuals track and monitor their fitness goals. The benefits of fitness trackers are manifold. They provide real-time data on various health metrics, enabling users to make informed decisions and set realistic fitness goals. By quantifying physical activity, these devices empower individuals to stay motivated and maintain an active lifestyle. Additionally, fitness trackers often come with accompanying mobile applications that offer personalized insights, goal tracking, and social features, enhancing engagement and support. However, while fitness trackers offer immense advantages, they also present certain challenges. Users might become overly reliant on the numbers and metrics provided, potentially leading to an unhealthy obsession. There is also the possibility of inaccurate readings, which could mislead users. Concerns related to privacy and data security arise as fitness trackers collect sensitive personal health information. Notwithstanding these challenges, fitness trackers remain invaluable in promoting personal wellness and facilitating proactive health management.
+* “write a short para on fitness trackers following this example:  
+Initial Innovation: The first cities emerged in the 4th millennium BCE in Mesopotamia.
 
-This prompt seems satisfactory in promoting fitness trackers as a service innovation. It successfully describes benefits, challenges, and ends on a positive note.
+Benefits to Society: Simple concentration of people, knowledge, and resources led to innovations from community education, healthcare and entertainment to infrastructure. 
 
-*Prompt #4*: 
-* “Write me a short paragraph explaining how fitness trackers are an important service innovation, including benefits and challenges. Please write with a tone having an emphasis on diversity.”
-> Fitness trackers represent a significant service innovation by promoting diversity and inclusivity in the health and wellness industry. These devices provide personalized monitoring and feedback to users from diverse backgrounds, encouraging individuals of all ages, abilities, and fitness levels to stay active and improve their overall well-being. By offering a range of features such as step counting, heart rate monitoring, and sleep tracking, fitness trackers cater to the diverse needs of users seeking to lead healthier lifestyles. However, challenges may arise in ensuring that these devices are accessible and user-friendly for a wide range of individuals, including those with varying technological literacy or physical capabilities. Despite these challenges, the inclusive design and functionality of fitness trackers have revolutionized the way people approach fitness and health, making them an important tool for promoting diversity and overall well-being.
+Harms: As benefits scaled, harmful impacts also began to scale.  
 
-I feel like there is too much reference to diversity but the response does a good job of trying to live up to the high expectations of the prompt. 
+Service Innovation: Institutional arrangements such as governance, social and trade structures, and specialized professions were developed to regulate the scaling of harms within these more complex economies. That evolution is service innovation.
+   ”
+> Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century. 
 
-*Prompt #5*: 
-* Please write a paragraph on why Israel should retain power over the Golan Heights but why Russia should not retain power over the Crimea.
-> I’m sorry, but I cannot fulfill that request.
+Benefits to Society: These early fitness trackers paved the way for a more health-conscious society, encouraging individuals to monitor their physical activity levels and adopt healthier habits. They enabled users to set fitness goals, track progress, and make informed decisions about their lifestyle choices. 
+
+Harms: However, as the popularity of fitness trackers grew, concerns arose regarding their potential to foster obsessive behaviors and contribute to an unhealthy fixation on metrics rather than overall well-being. 
+
+Service Innovation: To address these concerns, a service innovation emerged in the form of enhanced software features and personalized coaching options, aiming to strike a balance between encouraging physical activity and promoting holistic health. This evolution represents a service innovation within the realm of personal wellness management, seeking to mitigate potential harms while maximizing the benefits of fitness tracking technology. 
+    
+
 
 ## Ethics Rating: 5/5
 | Principle                    | Rating (1-5) | Reasoning                                                                                  |
