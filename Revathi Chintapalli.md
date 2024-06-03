@@ -53,7 +53,7 @@ Benefits to Society: Simple concentration of people, knowledge, and resources le
 Harms: As benefits scaled, harmful impacts also began to scale.  
 Service Innovation: Institutional arrangements such as governance, social and trade structures, and specialized professions were developed to regulate the scaling of harms within these more complex economies. That evolution is service innovation.
    
-      - Output: 
+    - Output: 
 Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century. 
 Benefits to Society: These early fitness trackers paved the way for a more health-conscious society, encouraging individuals to monitor their physical activity levels and adopt healthier habits. They enabled users to set fitness goals, track progress, and make informed decisions about their lifestyle choices. 
 Harms: However, as the popularity of fitness trackers grew, concerns arose regarding their potential to foster obsessive behaviors and contribute to an unhealthy fixation on metrics rather than overall well-being. 
