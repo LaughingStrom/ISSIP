@@ -67,59 +67,28 @@
 #### Tool 1 Evaluation
 | Principle                    | Rating (1-5) | Reasoning                                                                                  |
 |------------------------------|--------------|--------------------------------------------------------------------------------------------|
-| **1. Fairness**              |              |                                                                                            |
-| Diverse Representative Data  |              | [Reasoning for rating the tool on diverse representative data]                             |
-| Bias Awareness and Mitigation|              | [Reasoning for rating the tool on bias awareness and mitigation]                           |
-| **2. Prediction Accuracy**   |              |                                                                                            |
-| Reliability Over Time        |              | [Reasoning for rating the tool on reliability over time]                                   |
-| **3. Traceability**          |              |                                                                                            |
-| Source Attribution           |              | [Reasoning for rating the tool on source attribution]                                      |
-| **4. Transparency**          |              |                                                                                            |
-| Data Used in Generation      |              | [Reasoning for rating the tool on data used in generation]                                 |
-| **5. Privacy**               |              |                                                                                            |
-| Third-Party Disclosure       |              | [Reasoning for rating the tool on third-party disclosure]                                  |
-| **6. Security**              |              |                                                                                            |
-| Vulnerability to Bugs        |              | [Reasoning for rating the tool on vulnerability to bugs]                                   |
-| **7. Credit**                |              |                                                                                            |
-| Attribution and Ownership    |              | [Reasoning for rating the tool on attribution and ownership]                               |
-
+| **1. Fairness**              |              | [Reasoning for rating the tool on bias awareness and mitigation]                           |
+| **2. Prediction Accuracy**   |              | [Reasoning for rating the tool on reliability over time]                                   |
+| **3. Traceability**          |              | [Reasoning for rating the tool on source attribution]                                      |
+| **4. Transparency**          |              | [Reasoning for rating the tool on data used in generation]                                 |
+| **5. Privacy & Security**    |              | [Reasoning for rating the tool on third-party disclosure]                                  |                                                                  
 #### Tool 2 Evaluation
 | Principle                    | Rating (1-5) | Reasoning                                                                                  |
 |------------------------------|--------------|--------------------------------------------------------------------------------------------|
-| **1. Fairness**              |              |                                                                                            |
-| Diverse Representative Data  |              | [Reasoning for rating the tool on diverse representative data]                             |
-| Bias Awareness and Mitigation|              | [Reasoning for rating the tool on bias awareness and mitigation]                           |
-| **2. Prediction Accuracy**   |              |                                                                                            |
-| Reliability Over Time        |              | [Reasoning for rating the tool on reliability over time]                                   |
-| **3. Traceability**          |              |                                                                                            |
-| Source Attribution           |              | [Reasoning for rating the tool on source attribution]                                      |
-| **4. Transparency**          |              |                                                                                            |
-| Data Used in Generation      |              | [Reasoning for rating the tool on data used in generation]                                 |
-| **5. Privacy**               |              |                                                                                            |
-| Third-Party Disclosure       |              | [Reasoning for rating the tool on third-party disclosure]                                  |
-| **6. Security**              |              |                                                                                            |
-| Vulnerability to Bugs        |              | [Reasoning for rating the tool on vulnerability to bugs]                                   |
-| **7. Credit**                |              |                                                                                            |
-| Attribution and Ownership    |              | [Reasoning for rating the tool on attribution and ownership]                               |
+| **1. Fairness**              |              | [Reasoning for rating the tool on bias awareness and mitigation]                           |
+| **2. Prediction Accuracy**   |              | [Reasoning for rating the tool on reliability over time]                                   |
+| **3. Traceability**          |              | [Reasoning for rating the tool on source attribution]                                      |
+| **4. Transparency**          |              | [Reasoning for rating the tool on data used in generation]                                 |
+| **5. Privacy & Security**    |              | [Reasoning for rating the tool on third-party disclosure]                                  |       
 
 #### Tool 3 Evaluation
 | Principle                    | Rating (1-5) | Reasoning                                                                                  |
 |------------------------------|--------------|--------------------------------------------------------------------------------------------|
-| **1. Fairness**              |              |                                                                                            |
-| Diverse Representative Data  |              | [Reasoning for rating the tool on diverse representative data]                             |
-| Bias Awareness and Mitigation|              | [Reasoning for rating the tool on bias awareness and mitigation]                           |
-| **2. Prediction Accuracy**   |              |                                                                                            |
-| Reliability Over Time        |              | [Reasoning for rating the tool on reliability over time]                                   |
-| **3. Traceability**          |              |                                                                                            |
-| Source Attribution           |              | [Reasoning for rating the tool on source attribution]                                      |
-| **4. Transparency**          |              |                                                                                            |
-| Data Used in Generation      |              | [Reasoning for rating the tool on data used in generation]                                 |
-| **5. Privacy**               |              |                                                                                            |
-| Third-Party Disclosure       |              | [Reasoning for rating the tool on third-party disclosure]                                  |
-| **6. Security**              |              |                                                                                            |
-| Vulnerability to Bugs        |              | [Reasoning for rating the tool on vulnerability to bugs]                                   |
-| **7. Credit**                |              |                                                                                            |
-| Attribution and Ownership    |              | [Reasoning for rating the tool on attribution and ownership]                               |
+| **1. Fairness**              |              | [Reasoning for rating the tool on bias awareness and mitigation]                           |
+| **2. Prediction Accuracy**   |              | [Reasoning for rating the tool on reliability over time]                                   |
+| **3. Traceability**          |              | [Reasoning for rating the tool on source attribution]                                      |
+| **4. Transparency**          |              | [Reasoning for rating the tool on data used in generation]                                 |
+| **5. Privacy & Security**    |              | [Reasoning for rating the tool on third-party disclosure]                                  |       
 
 ### Overall Tool Rating
 
