@@ -48,15 +48,21 @@ The advent of fitness trackers represents a significant service innovation in th
 1. **Text Prompt (ChatGPT)**:
     - Best Prompt:
 write a short para on fitness trackers following this example:  
-Initial Innovation: The first cities emerged in the 4th millennium BCE in Mesopotamia. 
+Initial Innovation: The first cities emerged in the 4th millennium BCE in Mesopotamia.
+
 Benefits to Society: Simple concentration of people, knowledge, and resources led to innovations from community education, healthcare and entertainment to infrastructure. 
+
 Harms: As benefits scaled, harmful impacts also began to scale.  
+
 Service Innovation: Institutional arrangements such as governance, social and trade structures, and specialized professions were developed to regulate the scaling of harms within these more complex economies. That evolution is service innovation.
    
     - Output: 
 Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century. 
+
 Benefits to Society: These early fitness trackers paved the way for a more health-conscious society, encouraging individuals to monitor their physical activity levels and adopt healthier habits. They enabled users to set fitness goals, track progress, and make informed decisions about their lifestyle choices. 
+
 Harms: However, as the popularity of fitness trackers grew, concerns arose regarding their potential to foster obsessive behaviors and contribute to an unhealthy fixation on metrics rather than overall well-being. 
+
 Service Innovation: To address these concerns, a service innovation emerged in the form of enhanced software features and personalized coaching options, aiming to strike a balance between encouraging physical activity and promoting holistic health. This evolution represents a service innovation within the realm of personal wellness management, seeking to mitigate potential harms while maximizing the benefits of fitness tracking technology. 
     
 
