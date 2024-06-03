@@ -8,10 +8,10 @@
 
 #### Initial Prompts
 1. **Text Prompt (ChatGPT)**: 
-    - Prompt: "[Your initial text prompt here]"
+    - Prompt: "Write a short paragraph on "fitness tracker" service innovation. It should contain its history, benefits and harmful effects. "
     - Output: 
     ```
-    [Generated text output here]
+    [The advent of fitness trackers represents a significant service innovation in the health and wellness industry. The concept originated in the early 2000s with the introduction of wearable devices designed to monitor and track individuals' physical activity levels, heart rate, and sleep patterns. Fitness trackers have since evolved into sophisticated gadgets equipped with advanced sensors and smart features. The benefits of fitness trackers are diverse, ranging from promoting physical activity and helping users set and achieve fitness goals to providing real-time data for a more informed approach to personal health. Users can monitor their daily steps, track calorie expenditure, and even receive alerts for sedentary behavior. However, it's essential to use these devices mindfully, as excessive reliance on fitness trackers may lead to an unhealthy obsession with metrics and, in some cases, contribute to anxiety or stress. Striking a balance and utilizing these devices as supportive tools in a broader health and wellness strategy can maximize the positive impact of fitness trackers on individual well-being.]
     ```
 2. **Image Prompt (MidJourney)**:
     - Prompt: "[Your initial image prompt here]"
