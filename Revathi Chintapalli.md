@@ -61,6 +61,8 @@ Harms: As benefits scaled, harmful impacts also began to scale.
  
 
 Service Innovation: Institutional arrangements such as governance, social and trade structures, and specialized professions were developed to regulate the scaling of harms within these more complex economies. That evolution is service innovation." "
+   
+    
     - Output: 
     ```
     Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century. 
