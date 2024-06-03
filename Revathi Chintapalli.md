@@ -46,9 +46,10 @@
 ### 2. Best Prompt and Outputs
 
 1. **Text Prompt (ChatGPT)**:
-    - Best Prompt: "write a short para on fitness trackers following this example:  
+    - Best Prompt:
+write a short para on fitness trackers following this example:  
 
-" Initial Innovation: The first cities emerged in the 4th millennium BCE in Mesopotamia. 
+Initial Innovation: The first cities emerged in the 4th millennium BCE in Mesopotamia. 
 
  
 
@@ -63,8 +64,7 @@ Harms: As benefits scaled, harmful impacts also began to scale.
 Service Innovation: Institutional arrangements such as governance, social and trade structures, and specialized professions were developed to regulate the scaling of harms within these more complex economies. That evolution is service innovation." "
    
       - Output: 
-    ```
-    Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century. 
+Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century. 
 
  
 
@@ -77,7 +77,7 @@ Harms: However, as the popularity of fitness trackers grew, concerns arose regar
  
 
 Service Innovation: To address these concerns, a service innovation emerged in the form of enhanced software features and personalized coaching options, aiming to strike a balance between encouraging physical activity and promoting holistic health. This evolution represents a service innovation within the realm of personal wellness management, seeking to mitigate potential harms while maximizing the benefits of fitness tracking technology. 
-    ```
+    
 
 2. **Image Prompt (MidJourney)**:
     - Best Prompt: "[Your best image prompt here]"
