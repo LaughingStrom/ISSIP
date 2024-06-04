@@ -110,16 +110,17 @@ To start using the tool:
 
 *Image Prompt #1*:
 "generate an image of fitness trackers used as a service innovation ".
-* "8k close up portrait of a fitness enthusiast engaged in a workout routine, demonstrating strength, agility, and determination, inspiring a healthy and active lifestyle, using a fitness tracker, high resolution, highly detailed and Use a 'Close-up Details' filter to focus on intricate elements, revealing the beauty in small things."
+
 >![Prompt1](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Fitnesstracker_prompt1.jpg)
 
-There is no fitness tracker visible in this image. At first I thought that perhaps "fitness tracker" was not a recognizable prompt, so next I tried "smartwatch" instead.
+There is only a watch 
 
 *Image Prompt #2*:
 * "generate an image of people using fitness trackers in daily life."
 >![prompt2](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Fitnesstracker_prompt2.jpg)
 
-The 
+The image is decent. But very animated.
+
 *Image Prompt #3*:
 * "A woman using a fitness tracker to track different health metrics. show the metrics as pop-ups.  "
 >![A woman using a fitness tracker](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/midjourney_fitnesstrackers.jpg)
