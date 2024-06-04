@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Service Innovation : Fitness trackers</title> 
+    <title>Service Innovation : Fitness trackers</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -18,36 +18,27 @@
         }
         .container {
             display: flex;
-            justify-content: space-between;
-            align-items: flex-start;
-            margin-bottom: 20px; /* Add margin between containers */
-        }
-        .container:last-child { /* Add margin-bottom to the last container */
-            margin-bottom: 0;
-        }
-        .image-container {
-            width: 45%;
+            margin-bottom: 20px;
         }
         .text-container {
-            width: 45%;
+            flex: 1;
+            margin-right: 20px;
+        }
+        .image-container {
+            width: 200px;
+            height: 200px;
+            margin-right: 20px;
         }
         .image-container img {
-            width: 100%; /* Set image width to 100% of container */
-            height: auto; /* Maintain aspect ratio */
-            display: block;
-            margin-bottom: 10px;
-        }
-        .image-caption {
-            font-size: 14px;
-            color: #555;
-            margin-top: 5px;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
         .video-container {
-            width: 100%;
+            margin-top: 20px;
         }
         .video-container video {
             width: 100%;
-            display: block;
         }
     </style>
 </head>
@@ -56,12 +47,6 @@
     <h1>Service Innovation : Fitness trackers</h1>
 
     <div class="container">
-        <div class="image-container">
-            <h2>Image 1</h2>
-            <img src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/midjourney_fitnesstrackers.jpg" alt="A woman using a fitness tracker">
-            <div class="image-caption">Image 1: Fitness tracker 1</div>
-        </div>
-
         <div class="text-container">
             <p>
                 Initial Innovation: The inception of fitness trackers emerged with the introduction of basic pedometers in the late 20th century.
@@ -73,25 +58,21 @@
                 Service Innovation: To address these concerns, a service innovation emerged in the form of enhanced software features and personalized coaching options, aiming to strike a balance between encouraging physical activity and promoting holistic health. This evolution represents a service innovation within the realm of personal wellness management, seeking to mitigate potential harms while maximizing the benefits of fitness tracking technology.
             </p>
         </div>
+        <div class="image-container">
+            <img src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/midjourney_fitnesstrackers.jpg" alt="Image 1">
+        </div>
+        <div class="image-container">
+            <img src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/Fitnesstracker_prompt1.jpg"  alt="Image 2">
+        </div>
     </div>
 
-    <div class="container">
-        <div class="image-container">
-            <h2>Image 2</h2>
-            <img src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/Fitnesstracker_prompt1.jpg" alt="Fitness tracker">
-            <div class="image-caption">Image 2: Fitness tracker 2</div>
-        </div>
-
-        <div class="text-container">
-            <h2>Video Prompt</h2>
-            <p>A woman using a fitness tracker to track different health metrics. Show the metrics as pop-ups.</p>
-            <div class="video-container">
-                <video controls>
-                    <source src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4" type="video/mp4">
-                    Your browser does not support the video tag.
-                </video>
-            </div>
-        </div>
+    <div class="video-container">
+        <h2>Video Prompt</h2>
+        <p>A woman using a fitness tracker to track different health metrics. Show the metrics as pop-ups.</p>
+        <video controls>
+            <source src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4">
+            Your browser does not support the video tag.
+        </video>
     </div>
 
     <div class="citations">
