@@ -161,7 +161,7 @@ To start using the tool:
 4. Once all are set, select submit 
 
 * Output
->![Watch the fitness tracker video] (https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4)
+[Watch the fitness tracker video] (https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4)
 
 
 
