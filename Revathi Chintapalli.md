@@ -122,7 +122,7 @@ There is no fitness tracker visible in this image. At first I thought that perha
 The 
 *Image Prompt #3*:
 * "A woman using a fitness tracker to track different health metrics. show the metrics as pop-ups.  "
->(https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/midjourney_fitnesstrackers.jpg)
+>![A woman using a fitness tracker](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/midjourney_fitnesstrackers.jpg)
 
 There is finally a fitness tracker / smartwatch visible being used and show of metrics makes the image more informative. But the metrics words are gibbrish. 
 
