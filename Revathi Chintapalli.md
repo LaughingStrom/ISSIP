@@ -111,13 +111,13 @@ To start using the tool:
 *Image Prompt #1*:
 "generate an image of fitness trackers used as a service innovation ".
 * "8k close up portrait of a fitness enthusiast engaged in a workout routine, demonstrating strength, agility, and determination, inspiring a healthy and active lifestyle, using a fitness tracker, high resolution, highly detailed and Use a 'Close-up Details' filter to focus on intricate elements, revealing the beauty in small things."
->![prompt output with an extra leg](./images/playgroundAI/Picture1.png)
+>![Prompt1](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Fitnesstracker_prompt1.jpg)
 
 There is no fitness tracker visible in this image. At first I thought that perhaps "fitness tracker" was not a recognizable prompt, so next I tried "smartwatch" instead.
 
 *Image Prompt #2*:
 * "generate an image of people using fitness trackers in daily life."
->![prompt output with an extra arm](./images/playgroundAI/Picture2.png)
+>![prompt2](https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Fitnesstracker_prompt2.jpg)
 
 The 
 *Image Prompt #3*:
