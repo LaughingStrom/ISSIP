@@ -160,7 +160,8 @@ To start using the tool:
 3. Start with selected an avatar, templete and elements for the video. Script can be generated using Chat gpt
 4. Once all are set, select submit 
 
-* Output https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4
+* Output
+>![Watch the fitness tracker video] (https://github.com/LaughingStrom/ISSIP/blob/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4)
 
 
 
