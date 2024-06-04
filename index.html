@@ -18,9 +18,12 @@
         }
         .container {
             display: flex;
-            flex-direction: row;
             justify-content: space-between;
             align-items: flex-start;
+            margin-bottom: 20px; /* Add margin between containers */
+        }
+        .container:last-child { /* Add margin-bottom to the last container */
+            margin-bottom: 0;
         }
         .image-container {
             width: 45%;
@@ -29,8 +32,8 @@
             width: 45%;
         }
         .image-container img {
-            width: 200px; /* Set width to 200 pixels */
-            height: 200px; /* Set height to 200 pixels */
+            width: 100%; /* Set image width to 100% of container */
+            height: auto; /* Maintain aspect ratio */
             display: block;
             margin-bottom: 10px;
         }
@@ -39,11 +42,19 @@
             color: #555;
             margin-top: 5px;
         }
+        .video-container {
+            width: 100%;
+        }
+        .video-container video {
+            width: 100%;
+            display: block;
+        }
     </style>
 </head>
 <body>
 
     <h1>Service Innovation : Fitness trackers</h1>
+
     <div class="container">
         <div class="image-container">
             <h2>Image 1</h2>
@@ -74,10 +85,12 @@
         <div class="text-container">
             <h2>Video Prompt</h2>
             <p>A woman using a fitness tracker to track different health metrics. Show the metrics as pop-ups.</p>
-            <video width="100%" controls>
-                <source src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4" type="video/mp4">
-                Your browser does not support the video tag.
-            </video>
+            <div class="video-container">
+                <video controls>
+                    <source src="https://raw.githubusercontent.com/LaughingStrom/ISSIP/main/FilesRevathi/Heygen_Fitness%20Trackers.mp4" type="video/mp4">
+                    Your browser does not support the video tag.
+                </video>
+            </div>
         </div>
     </div>
 
